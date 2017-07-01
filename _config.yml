@@ -1,0 +1,8 @@
+title: Daz-iray-shaders
+description: Sharing and contribute Iray shaders for Daz Studio
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
